@@ -6,7 +6,7 @@ echo "processing";
 
 
 /* you can change this */
-	$download_url = "https://totaldesigner.io/uploads2/18-20.zip"; // url to zip file you want to download
+	$download_url = "domain/uploads2/18-20.zip"; // url to zip file you want to download
 	$delete = "no"; // if you DO NOT want the .zip file to be deleted after it was extracted set "yes" to "no".
 
 /* don't touch nothing after this line */
